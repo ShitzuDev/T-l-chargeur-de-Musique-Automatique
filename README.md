@@ -6,7 +6,7 @@ Ce programme permet de télécharger des musiques depuis YouTube en utilisant un
 
 1. **🎧 Téléchargement de la musique** :
    - Le programme demande un titre ou un artiste, puis il effectue une recherche sur YouTube pour trouver la chanson correspondante. 🔍
-   - La chanson est ensuite téléchargée en format MP3 avec une qualité de 192 kbps. 🎶
+   - La chanson est ensuite téléchargée en format MP3 🎶
    - Tous les fichiers téléchargés sont sauvegardés dans un dossier nommé **"Musiques"**, qui est automatiquement créé si nécessaire. 💾
 
 2. **⚠️ Message d'erreur** :
