@@ -25,7 +25,7 @@ Si vous voulez quitter le programme, tapez `exit`. 👋
 ### ⚙️ Détails du programme :
 
 - **📂 Dossier de destination** : Les musiques seront placées dans le dossier **"Musiques"**.
-- **💿 Format du fichier** : Les musiques sont téléchargées au format MP3 avec une qualité de 192 kbps.
+- **💿 Format du fichier** : Les musiques sont téléchargées au format MP3.
 - **🔧 Gestion des erreurs** : Si une erreur survient pendant le téléchargement, elle sera affichée, mais cela n'empêchera pas le programme de continuer à fonctionner correctement. 👍 (la musique sera tout de meme téléchargé)
 
 ---
