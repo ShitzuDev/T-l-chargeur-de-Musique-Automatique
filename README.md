@@ -28,10 +28,4 @@ Si vous voulez quitter le programme, tapez `exit`. 👋
 - **💿 Format du fichier** : Les musiques sont téléchargées au format MP3.
 - **🔧 Gestion des erreurs** : Si une erreur survient pendant le téléchargement, elle sera affichée, mais cela n'empêchera pas le programme de continuer à fonctionner correctement. 👍 (la musique sera tout de meme téléchargé)
 
----
-
-### 📥 Avant de lancer le programme :
-
-- N'oubliez pas d'éxécuter le fichier **`requirements.bat`** avant de lancer le programme Python. Ce fichier installera les dépendances nécessaires pour que le programme fonctionne correctement. 📂⚙️
-
 
